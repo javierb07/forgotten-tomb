@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A3. Leave the Rest as Bait
+  m_EditorClassIdentifier: 
+  storyText: "You can only listen the sweet tones of her voice, how could such beautiful
+    red lips produce anything evil. She is right, the rest are already dead; it is
+    a question if you will follow them to the grave. You decide you are not going
+    to let that happen. You go through the exit, the sound of fight suddenly dying.
+    Outside, she screams with joy and throws her arms around you, kissing you passionately.
+    \"We've made it! Now give me the lamp dear! A little too eager, but then again
+    you are both e\rxcited to be out of that place. With the Lamp and your lifes!\n\r\nWhat
+    do you do?\r\n1. Give her the lamp.\r\n2. Hold on to the lamp.\r"
+  nextStates:
+  - {fileID: 11400000, guid: a328088c4d685f74595f19dfb753291b, type: 2}
+  - {fileID: 11400000, guid: 90d3e3dab0840ab42937e2e88779cbc8, type: 2}

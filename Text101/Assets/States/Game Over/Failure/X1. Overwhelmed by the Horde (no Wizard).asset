@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: X1. Overwhelmed by the Horde (no Wizard)
+  m_EditorClassIdentifier: 
+  storyText: "The knight, tears rolling down his face nods and gets up. His knuckles
+    white with the strength of holding his sword. You look back and cannot see the
+    rogue anymore. The barbarian has barely enough time to step back from the door,
+    as it explodes with a rain of both debris and orcs. Your weapons sing for a few
+    moments, the corpses of your enemies piling up around you. Eventually, their numbers
+    are too much and you are buried with the filth and stench of the orcs. The last
+    you see is the dark creature, its red eyes, black horns, and dark fur... maybe
+    a smile on its face.\r\n\r\nPress 1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: b639a2f2fbecd8a48b73eaf7fae7fd90, type: 2}

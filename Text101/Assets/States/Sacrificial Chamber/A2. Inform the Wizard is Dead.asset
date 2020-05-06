@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A2. Inform the Wizard is Dead
+  m_EditorClassIdentifier: 
+  storyText: "You tell the knight that the wizard is a lost cause; that you need to
+    move if you are to stay alive. The knight looks at the corpse of the wizard and
+    stays frozen, completely ignoring your requests and begs to help the barbarian.\r\n\r\nWhat
+    do you do?\r\n1. Tell the knigh to stand and fight to avenge the wizard.\r\n2.
+    Rush to the barbarian and try to help him hold the door.\r"
+  nextStates:
+  - {fileID: 11400000, guid: df5c3a8a4cae2ed4883418f3a1c85196, type: 2}
+  - {fileID: 11400000, guid: 096911fe8da24394287ee09cf4f9c2ca, type: 2}

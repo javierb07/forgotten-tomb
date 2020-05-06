@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A0. Story Intro 1
+  m_EditorClassIdentifier: 
+  storyText: "This was a mistake. You entered seeking glory, fame, secrets, treasures...
+    and now it seems that you will be lucky if you leave this wretched place with
+    your life. Five companions embarked in this quest with you: a muscular, big barbarian
+    from the icy planes of the North; a young knight, the hint of a beard forming
+    in his childish face; a sickly, small wizard with pale skin and long dark hair...
+    who despite appearances you know is the most dangerous of all; an old but stark
+    woman, masterful in the healing arts,... and finally her, a stunning rogue, her
+    blond hair floating around, following her when she walked... and what walk she
+    had, all of them turned when she moved, her hips rocking in an hypnotic dance.
+    Such a woman knows that she has far better weapons than a sharp dagger.\r\n\r\nPress
+    1 to continue. 2 to go back.\r"
+  nextStates:
+  - {fileID: 11400000, guid: fe1babf3761a49d41915451a9f6f6777, type: 2}
+  - {fileID: 11400000, guid: 21f11f97fe1f0af4a95c454eb7bde7d2, type: 2}

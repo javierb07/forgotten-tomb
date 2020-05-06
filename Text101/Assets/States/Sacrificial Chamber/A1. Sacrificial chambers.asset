@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A1. Sacrificial chambers
+  m_EditorClassIdentifier: 
+  storyText: "The wizard has been hurt and lays unconscious on the floor. Next to
+    him, the knight is trying his best to patch him; the healer is gone. \u201CWhy
+    did I agree to come to this place?\u201D, you murmur. The barbarian is attempting
+    to secure the door, and the rogue, her slender figure illuminated by the light
+    of the torch, is looking for a way out of the room.\r\nSuddenly, you hear them
+    banging the door and the barbarian shouts, \u201Cthis is not going to hold for
+    long!\u201D. The young knight looks at you, and with imploring eyes asks \u201Chelp
+    him, he\u2019s dying!\u201D. Almost at the same time the rogue says, \u201Chere,
+    I think I\u2019ve found the exit. Give me a hand!\u201D\r\n\r\nWhat do you do?
+    \r\n1. Try to help the wizard, he's powers would make all the difference.\n2.
+    Check the exit that the rogue has found; it could be your way out.\n3. Help the
+    barbarian secure the door; you need more time.\n"
+  nextStates:
+  - {fileID: 11400000, guid: d64869429cd02834685d8a5ca680a711, type: 2}
+  - {fileID: 11400000, guid: 326ddce65548f034bb2fd2383d4a4ff8, type: 2}
+  - {fileID: 11400000, guid: 096911fe8da24394287ee09cf4f9c2ca, type: 2}

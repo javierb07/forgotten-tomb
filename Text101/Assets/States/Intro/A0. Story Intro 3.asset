@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A0. Story Intro 3
+  m_EditorClassIdentifier: 
+  storyText: "All of you rush to the exit, as best you can. The old healer is not
+    as fast, and you see her get swarmed and buried in the grotesque bodies of the
+    orcs. No thing that can be done, you think to yourself, not slowing down one bit.
+    In your hurry you lose your way, and end up in a large room that seems like a
+    dead end. The knight gently drops the wizard on the floor, the rogue starts to
+    look for a way out, while the barbarian closes the door and holds it with his
+    big body.\r\nWould you be able to leave this accursed place with the riches you
+    came here for? Would you even take your life outside the place?\r\n\r\nPress 1
+    to find out. 2 to go back."
+  nextStates:
+  - {fileID: 11400000, guid: 0d9cf6038538681468aec58bbb1e1e2d, type: 2}
+  - {fileID: 11400000, guid: fe1babf3761a49d41915451a9f6f6777, type: 2}

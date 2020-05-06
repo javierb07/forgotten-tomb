@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A2. Help the Wizard
+  m_EditorClassIdentifier: 
+  storyText: "You kneel next to the wizard and the knight. The young lad has tears
+    in his eyes, his composure gone. He's pressing a dirty rag against the open wound
+    in the belly of the wizard. Blood oozing from the deep cut... to save the wizard
+    you'd need a miracle... perhaps if you use the very thing that you came in for
+    you could save him. The Lamp of Desire. But if you did, why did you came in for?
+    With the power of the Lamp spent you'd leave only with trinkets. Should you tell
+    the knight that the wizard is gone and get him to help the barbarian in securing
+    the door? Or perhaps use the artifact to save the wizard; his powers might be
+    the only thing to get you out alive.\n\r\nWhat do you want to do?\r\n\r\n1. Use
+    the Lamp of Desire to heal the wizard.\n2. Tell the knight that the wizard is
+    gone and ask him to help the barbarian."
+  nextStates:
+  - {fileID: 11400000, guid: a72788fd2b618864f99527ec3a1d45bd, type: 2}
+  - {fileID: 11400000, guid: eb558d152509f614799153452a0fadf5, type: 2}

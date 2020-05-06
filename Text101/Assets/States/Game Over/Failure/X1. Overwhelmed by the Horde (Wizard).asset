@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: X1. Overwhelmed by the Horde (Wizard)
+  m_EditorClassIdentifier: 
+  storyText: "You decide that the Lamp is too valuable and that you rather keep it
+    to yourself. \"I think I'll hold on to this\", you say. \"Fool, it's our only
+    way out!\", the wizard shouts, but it is now too late. The orcs and the dark monster
+    burst through the hole. Barbarian and knight do their best and hack down many
+    orcs. But the dark devil is the real menace; swiftly it comes to the warriors
+    and kills them with its enormous sword. The rogue is nowhere to be seen. The wizard
+    casts a powerful spell; it removes almost half of the upper torso of the monster.
+    But it still has enough strength to swing the sword one last time, cutting the
+    wizard in half. Everyone else is dead, as you stay paralyzed while the corpse
+    of the devil falls and buries you. You don't die instantly, but rather from the
+    lack of air caused by the stench and weight of the monster over you.\r\n\nPress
+    1 to continue.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: b639a2f2fbecd8a48b73eaf7fae7fd90, type: 2}

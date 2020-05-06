@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: X1. Betrayed by a pretty face with nice hips
+  m_EditorClassIdentifier: 
+  storyText: "\"Finally, it's in my hands!\", she says snatching the Lamp from you.
+    \"You have been a good little soldier, but I don't need you anymore and it's better
+    if nobody knows I have this. Sorry.\" she shrugs nonchalantly. You see how she
+    uses the Lamp, chanting a spell you don't understand, and suddenly you cannot
+    breathe anymore. You fall to the floor, and the last thing you see is her walking
+    away. But what a lovely gait, her hips moving one way and the other... \r\n\r\nPress
+    1 to continue.\r"
+  nextStates:
+  - {fileID: 11400000, guid: b639a2f2fbecd8a48b73eaf7fae7fd90, type: 2}

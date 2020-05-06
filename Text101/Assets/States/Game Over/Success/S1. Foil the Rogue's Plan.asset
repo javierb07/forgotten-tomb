@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: S1. Foil the Rogue's Plan
+  m_EditorClassIdentifier: 
+  storyText: "You hold the Lamp tightly. \"What's the rush? I can keep it for a while\",
+    you tell her in response. \"Fool, you don't know what you have in your hands!\",
+    she tells you, desperation in her voice, \"give it to me now!\". She comes forward
+    and you start to struggle, noticing that she has a dagger in her hand. It is thanks
+    to the knight that you can get her off. You bound her, her hair now a mess and
+    her face red with anger. \"Let's go back to town, enough blood was spilled today\",
+    says the knight. \"You are right\", you answer. You look at the rogue but she
+    doesn\u2019t meet your eyes.\r\n\r\nPress 1 to continue.\r"
+  nextStates:
+  - {fileID: 11400000, guid: b639a2f2fbecd8a48b73eaf7fae7fd90, type: 2}

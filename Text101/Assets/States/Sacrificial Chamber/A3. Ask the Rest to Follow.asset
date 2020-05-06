@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A3. Ask the Rest to Follow
+  m_EditorClassIdentifier: 
+  storyText: "\"We can't leave them!\", you tell her. \"I just wanted to be with you\",
+    a pout on her face, an innocent expression. You forgot that she suggested to leave
+    everybody to die in an instant. \"We found the exit! Quickly, come this way!\".
+    The knight comes rushing, the rogue already through. \"I'll hold them off! It's
+    the barbarian, closing the exit behind you. Outside, the rogue screams with happiness,
+    throwing her arms around your neck and kisses you. \"We've made it! Give me the
+    lamp dear\", she says. \"Wait, you can't trust her. I heard her wanting to leave
+    us behind!\r\n\r\nWhat do you do?\r\n1. Give the lamp to the rogue, she has done
+    nothing wrong.\n2. Hold on to the lamp, you have seen its powers and they suit
+    you fine."
+  nextStates:
+  - {fileID: 11400000, guid: a328088c4d685f74595f19dfb753291b, type: 2}
+  - {fileID: 11400000, guid: 7f36f2897f13cd247816fe1372af6da8, type: 2}

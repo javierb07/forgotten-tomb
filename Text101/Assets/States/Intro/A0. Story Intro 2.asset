@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A0. Story Intro 2
+  m_EditorClassIdentifier: 
+  storyText: "This is a disaster. Everything was going smoothly, only a few easy traps
+    and minor dangers in the tomb. Made you think why everyone was afraid of the place.
+    Alas, all took a turn for the worse the moment you lift the Lamp of Desire, the
+    powerful artifact said to fulfill wishes, the device that changed history by making
+    kings, flattening mountains and more. It was like they were waiting for you to
+    take it. They came like a flood, from every direction. But it would still have
+    been possible if it not were for the dark demon. The massive beast roared so hard
+    that parts of the floor and wall started flying, one of them hit the wizard in
+    his guts, a moment later he was motionless on the floor. Quickly the knight knelt
+    beside him and lift him up like he weighed nothing, the barbarian tore apart an
+    orc with his axe and roared \"WE HAVE TO GET OUT OF HERE!\".\r\n\r\nPress 1 to
+    continue. 2 to go back."
+  nextStates:
+  - {fileID: 11400000, guid: 3c7bbb39f0c1aa442b33d987180ed189, type: 2}
+  - {fileID: 11400000, guid: c882cbc64bf584e4c97ce57dfd649bf3, type: 2}

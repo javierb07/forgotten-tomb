@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A2. Revive the wizard
+  m_EditorClassIdentifier: 
+  storyText: "You grab the Lamp of Desire with no idea how to use it. You rub it,
+    you make wishes, you try to spill its content on the wizard... when you are about
+    to give up thinking that nothing's happening the wizard open his eyes; he swiftly
+    gets up, the air shimmering around him. At the same time the door brakes, the
+    orcs and the dark monster coming across the new formed hole in the wall. \"I can
+    get us out of here, give me the lamp\" says the wizard.\r\n\r\nWhat do you do?\r\n1.
+    Give the Lamp to the wizard. \r\n2. Keep the Lamp to yourself.\r"
+  nextStates:
+  - {fileID: 11400000, guid: e1e23f4e4b14c6f4b81dbc1d7e929370, type: 2}
+  - {fileID: 11400000, guid: 0f97faa94948e8c4bbab5fb05bca86a9, type: 2}

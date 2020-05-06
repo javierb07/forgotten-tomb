@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: S1. Use your Head and not the Head in your Pants
+  m_EditorClassIdentifier: 
+  storyText: "\"I think you are too eager to have this, we've just let our companions
+    die!\", you say to her with sadness. \"But we are alive, and I need that. You
+    are going to give it to me now. One way or the other.\" She launches quickly at
+    you, a blond-headed blur. You struggle and fall to the floor, and notice that
+    she has her dagger in her hand. Eventually, the fighting ends when her own blade
+    finds its way somehow to her hart in the fight. Blood spills from her mouth, she
+    tries to say something but she can't. \"I'm sorry...\", you apologize but she
+    is already dead.\r\n\r\nPress 1 to continue. \r"
+  nextStates:
+  - {fileID: 11400000, guid: b639a2f2fbecd8a48b73eaf7fae7fd90, type: 2}

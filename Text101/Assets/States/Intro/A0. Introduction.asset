@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8a14819696a16d4d9dffb41ee530859, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to The Forgotten Tomb.
+
+
+    This is a choose your own adventure type of game.
+
+
+    At each stage you''ll be asked to make a decision by pushing a key on the keyboard;
+    namely, 1 or 2.
+
+
+    At any point you can push "q" to exit the game.
+
+
+    Enjoy!'
+  nextStates:
+  - {fileID: 11400000, guid: c882cbc64bf584e4c97ce57dfd649bf3, type: 2}
